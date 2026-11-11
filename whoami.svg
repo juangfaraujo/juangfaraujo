@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="272" viewBox="0 0 860 272" role="img" aria-label="whoami terminal">
+  <style>
+    .t { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 15px; }
+    .p { fill: #965cc4; }
+    .c { fill: #e6deef; }
+    .o { fill: #c9a0ff; }
+    .d { fill: #8f7fa3; }
+  </style>
+  <rect x="1" y="1" width="858" height="270" rx="10" fill="#0b080f" stroke="#2a1f36" stroke-width="2"/>
+  <rect x="2" y="2" width="856" height="34" rx="9" fill="#15101c"/>
+  <rect x="2" y="26" width="856" height="10" fill="#15101c"/>
+  <line x1="2" y1="36" x2="858" y2="36" stroke="#2a1f36" stroke-width="1"/>
+  <circle cx="22" cy="19" r="6" fill="#965cc4"/>
+  <circle cx="42" cy="19" r="6" fill="#6b4590"/>
+  <circle cx="62" cy="19" r="6" fill="#3d2a52"/>
+  <text x="430" y="24" text-anchor="middle" class="t d" font-size="13">juan@coffee: ~</text>
+
+  <text class="t" x="24" y="68"><tspan class="p">$</tspan><tspan class="c" dx="10">whoami</tspan></text>
+  <text class="t o" x="24" y="92">&gt; Juan Gabriel — Software Engineer</text>
+
+  <text class="t" x="24" y="124"><tspan class="p">$</tspan><tspan class="c" dx="10">cat interests.txt</tspan></text>
+  <text class="t o" x="24" y="148">&gt; Software · Cybersecurity · Mechanical</text>
+
+  <text class="t" x="24" y="180"><tspan class="p">$</tspan><tspan class="c" dx="10">cat focus.txt</tspan></text>
+  <text class="t d" x="24" y="204">&gt; Building things in code, learning how to break (and protect) them,</text>
+  <text class="t d" x="24" y="228">&gt; and sharing the journey along the way.</text>
+
+  <text class="t p" x="24" y="256">$</text>
+  <rect x="40" y="244" width="9" height="16" fill="#c9a0ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
