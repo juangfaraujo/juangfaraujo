@@ -1,69 +1,20 @@
-<p align="center">
-  <img src="github_banner.png" alt="Juan Gabriel — coffee, code and security" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@juangfaraujo"><img src="https://img.shields.io/badge/YouTube-1a1220?style=for-the-badge&logo=youtube&logoColor=c9a0ff" alt="YouTube"></a>
-  <a href="https://www.instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-1a1220?style=for-the-badge&logo=instagram&logoColor=c9a0ff" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@SEU_USUARIO"><img src="https://img.shields.io/badge/TikTok-1a1220?style=for-the-badge&logo=tiktok&logoColor=c9a0ff" alt="TikTok"></a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1a1220?style=for-the-badge&logo=linkedin&logoColor=c9a0ff" alt="LinkedIn"></a>
-</p>
-
----
-
-### ☕ `whoami`
-
-```bash
+<p align="center"> <img src="github_banner.png" alt="Juan Gabriel — coffee, code and security" width="100%"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9A0FF&center=true&vCenter=true&width=620&lines=Dev+%C2%B7+Cybersecurity+%C2%B7+Mechanical;Coffee%2C+code+and+security+%E2%98%95;Breaking+things+to+learn+how+to+protect+them" alt="Typing SVG"> </p> <p align="center"> <a href="https://www.youtube.com/@juangfaraujo"><img src="https://img.shields.io/badge/YouTube-0b080f?style=for-the-badge&logo=youtube&logoColor=c9a0ff" alt="YouTube"></a> <a href="https://www.instagram.com/juangfaraujo/"><img src="https://img.shields.io/badge/Instagram-0b080f?style=for-the-badge&logo=instagram&logoColor=c9a0ff" alt="Instagram"></a> <a href="https://www.tiktok.com/@juangfaraujo"><img src="https://img.shields.io/badge/TikTok-0b080f?style=for-the-badge&logo=tiktok&logoColor=c9a0ff" alt="TikTok"></a> <a href="https://x.com/Juangfaraujo"><img src="https://img.shields.io/badge/X-0b080f?style=for-the-badge&logo=x&logoColor=c9a0ff" alt="X"></a> <a href="https://www.linkedin.com/in/juangfaraujo/"><img src="https://img.shields.io/badge/LinkedIn-0b080f?style=for-the-badge&logo=linkedin&logoColor=c9a0ff" alt="LinkedIn"></a> </p>
+☕ whoami
+bash
 $ whoami
-> Juan Gabriel — developer, cybersecurity student and mechanical tinkerer
+> Juan Gabriel — developer, cybersecurity enthusiast and mechanical tinkerer
 
 $ cat focus.txt
 > Building things in code, learning how to break (and protect) them,
 > and sharing the journey along the way.
-```
-
-- 🔐 Currently studying: **[ex.: pentest, redes, CTFs]**
-- 💻 Working on: **[seu projeto atual]**
-- ⚙️ Mechanical side: **[ex.: CAD, manutenção, automação]**
-- 🎥 Sharing what I learn on [YouTube](https://www.youtube.com/@juangfaraujo)
-
----
-
-### 🛠️ Toolbox
-
-**Code**
-
-![Python](https://img.shields.io/badge/Python-1a1220?style=flat-square&logo=python&logoColor=c9a0ff)
-![Bash](https://img.shields.io/badge/Bash-1a1220?style=flat-square&logo=gnubash&logoColor=c9a0ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1220?style=flat-square&logo=javascript&logoColor=c9a0ff)
-![Git](https://img.shields.io/badge/Git-1a1220?style=flat-square&logo=git&logoColor=c9a0ff)
-![VS Code](https://img.shields.io/badge/VS%20Code-1a1220?style=flat-square&logo=visualstudiocode&logoColor=c9a0ff)
-
-**Security**
-
-![Linux](https://img.shields.io/badge/Linux-1a1220?style=flat-square&logo=linux&logoColor=c9a0ff)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1a1220?style=flat-square&logo=kalilinux&logoColor=c9a0ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-1a1220?style=flat-square&logo=wireshark&logoColor=c9a0ff)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-1a1220?style=flat-square&logo=tryhackme&logoColor=c9a0ff)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-1a1220?style=flat-square&logo=hackthebox&logoColor=c9a0ff)
-
-**Mechanical**
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-1a1220?style=flat-square&logo=autodesk&logoColor=c9a0ff)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-1a1220?style=flat-square&logo=dassaultsystemes&logoColor=c9a0ff)
-![Arduino](https://img.shields.io/badge/Arduino-1a1220?style=flat-square&logo=arduino&logoColor=c9a0ff)
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juangfaraujo&show_icons=true&hide_border=true&bg_color=0b080f&title_color=c9a0ff&icon_color=965cc4&text_color=e6deef" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangfaraujo&layout=compact&hide_border=true&bg_color=0b080f&title_color=c9a0ff&text_color=e6deef" alt="Top languages">
-</p>
-
----
-
-<p align="center">
-  <i>☕ fueled by coffee · 🔐 driven by curiosity</i>
-</p>
+🔐 Currently studying: [ex.: pentest, redes, CTFs]
+💻 Working on: [seu projeto atual]
+⚙️ Mechanical side: [ex.: CAD, manutenção, automação]
+🎥 Sharing what I learn on YouTube
+🛠️ Toolbox
+<table align="center"> <tr> <td align="center"><b>Code</b></td> <td align="center"><b>Security</b></td> <td align="center"><b>Mechanical</b></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=py,bash,js,c,git,github,vscode&perline=4&theme=dark" alt="Code tools"> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=linux,kali,docker&perline=3&theme=dark" alt="Security tools"><br> <img src="https://img.shields.io/badge/Wireshark-0b080f?style=flat-square&logo=wireshark&logoColor=c9a0ff" alt="Wireshark"> <img src="https://img.shields.io/badge/Hack%20The%20Box-0b080f?style=flat-square&logo=hackthebox&logoColor=c9a0ff" alt="Hack The Box"> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=autocad,arduino,raspberrypi&perline=3&theme=dark" alt="Mechanical tools"><br> <img src="https://img.shields.io/badge/SolidWorks-0b080f?style=flat-square&logo=dassaultsystemes&logoColor=c9a0ff" alt="SolidWorks"> </td> </tr> </table>
+📊 GitHub stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=juangfaraujo&show_icons=true&hide_border=true&bg_color=0b080f&title_color=c9a0ff&icon_color=965cc4&text_color=e6deef" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangfaraujo&layout=compact&hide_border=true&bg_color=0b080f&title_color=c9a0ff&text_color=e6deef" alt="Top languages"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=juangfaraujo&hide_border=true&background=0B080F&ring=965CC4&fire=C9A0FF&currStreakNum=E6DEEF&sideNums=E6DEEF&currStreakLabel=C9A0FF&sideLabels=C9A0FF&dates=8F7FA3&stroke=2A1F36" alt="GitHub streak"> </p>
+👾 Contribution arcade
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juangfaraujo/juangfaraujo/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juangfaraujo/juangfaraujo/output/pacman-contribution-graph.svg"> <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/juangfaraujo/juangfaraujo/output/pacman-contribution-graph.svg"> </picture> </p>
+<p align="center"> <i>"The quieter you become, the more you are able to hear."</i> </p> <p align="center"> <i>☕ fueled by coffee · 🔐 driven by curiosity</i> </p>
